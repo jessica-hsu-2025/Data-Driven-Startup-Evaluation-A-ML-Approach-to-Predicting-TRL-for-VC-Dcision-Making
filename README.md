@@ -1,5 +1,3 @@
-# Machine Learning Model Optimization
-
 ## Overview
 This project explores different machine learning models and optimization techniques to enhance predictive performance. The models evaluated include Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting. The project implements train-validation-test splits, cross-validation, and GridSearchCV for hyperparameter tuning.
 
